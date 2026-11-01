@@ -67,12 +67,9 @@
 ## 📊 GitHub at a Glance
 
 <div align="center">
+  <img src="https://github-readme-stats-phi-seven-45.vercel.app/api?username=Jasveer399&show_icons=true&theme=transparent&title_color=ff8a24&icon_color=b56cff&text_color=e9ddff&bg_color=0d0b14&hide_border=true" height="180" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jasveer399&show_icons=true&hide_border=true&bg_color=0d0b14&title_color=ff8a24&icon_color=b56cff&text_color=e9ddff&ring_color=ff8a24" alt="Jasveer's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasveer399&layout=compact&hide_border=true&bg_color=0d0b14&title_color=ff8a24&text_color=e9ddff" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=Jasveer399&hide_border=true&background=0D0B14&ring=FF8A24&fire=FF7518&currStreakLabel=B56CFF&sideLabels=E9DDFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B8DAF" alt="GitHub contribution streak" />
-
+  <img src="https://github-readme-stats-phi-seven-45.vercel.app/api/top-langs/?username=Jasveer399&layout=compact&theme=transparent&title_color=ff8a24&text_color=e9ddff&bg_color=0d0b14&hide_border=true" height="180" />
 </div>
 
 ---
